@@ -1,0 +1,15 @@
+/** {
+    outline: 1px solid pink;
+}*/
+
+body{
+    text-align: center;
+}
+
+span{
+    display: inline-block;
+}
+/*#mini-layout{
+display: inline-flex;
+justify-content: space-around;
+}*/
